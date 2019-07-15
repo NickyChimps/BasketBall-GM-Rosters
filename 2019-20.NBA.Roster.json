@@ -669,7 +669,7 @@
 
 {"tid":25,
 "name":"Dewayne Dedmon",
-"ratings":[{"hgt":67,"stre":84,"spd":39,"jmp":63,"endu":50,"ins":69,"dnk":68,"ft":57,"fg":22,"tp":0,"diq":67,"oiq":51,"drb":18,"pss":22,"reb":80}],
+"ratings":[{"hgt":67,"stre":84,"spd":39,"jmp":63,"endu":50,"ins":69,"dnk":68,"ft":70,"fg":65,"tp":73,"diq":67,"oiq":51,"drb":59,"pss":22,"reb":80}],
 "pos":"C","hgt":84,"weight":245,
 "born":{"year":1990,"loc":"Lancaster, CA"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203473.png",
@@ -4672,7 +4672,7 @@
 
 {"tid":25,
 "name":"Marvin Bagley",
-"ratings":[{"hgt":65,"stre":62,"spd":59,"jmp":78,"endu":45,"ins":60,"dnk":82,"ft":31,"fg":55,"tp":30,"diq":38,"oiq":60,"drb":35,"pss":44,"reb":74}],
+"ratings":[{"hgt":65,"stre":62,"spd":59,"jmp":78,"endu":45,"ins":60,"dnk":82,"ft":31,"fg":60,"tp":38,"diq":38,"oiq":60,"drb":35,"pss":44,"reb":74}],
 "pos":"PF","hgt":83,"weight":225,
 "born":{"year":1999,"loc":"Phoenix, AZ"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628963.png",
@@ -4681,7 +4681,7 @@
 "college":"Duke",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":25,
+{"tid":-1,
 "name":"B.J. Johnson",
 "ratings":[{"hgt":48,"stre":29,"spd":61,"jmp":29,"endu":38,"ins":36,"dnk":58,"ft":25,"fg":52,"tp":60,"diq":41,"oiq":33,"drb":58,"pss":53,"reb":17}],
 "pos":"SG","hgt":79,"weight":200,
@@ -4848,13 +4848,13 @@
 "college":"Washington",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":-1,
+{"tid":25,
 "name":"Joe Young",
-"ratings":[{"hgt":37,"stre":16,"spd":61,"jmp":51,"endu":40,"ins":38,"dnk":62,"ft":62,"fg":55,"tp":52,"diq":47,"oiq":43,"drb":55,"pss":37,"reb":33}],
+"ratings":[{"hgt":37,"stre":16,"spd":61,"jmp":51,"endu":46,"ins":38,"dnk":62,"ft":68,"fg":62,"tp":74,"diq":47,"oiq":43,"drb":55,"pss":42,"reb":33}],
 "pos":"PG","hgt":76,"weight":180,
 "born":{"year":1993,"loc":"Houston, TX"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626202.png",
-"contract":{"amount":1600,"exp":2018},
+"contract":{"amount":900,"exp":2021},
 "draft":{"round":2,"pick":13,"tid":11,"originalTid":11,"year":2015},
 "college":"Oregon",
 "injury":{"type":"Healthy","gamesRemaining":0}},
@@ -6471,7 +6471,7 @@
 
 {"tid":25,
 "name":"Kyle Guy",
-"ratings":[{"hgt":29,"stre":20,"spd":43,"jmp":44,"endu":33,"ins":23,"dnk":49,"ft":64,"fg":45,"tp":65,"diq":35,"oiq":54,"drb":39,"pss":33,"reb":44}],
+"ratings":[{"hgt":29,"stre":20,"spd":43,"jmp":44,"endu":33,"ins":23,"dnk":49,"ft":67,"fg":54,"tp":74,"diq":35,"oiq":63,"drb":39,"pss":33,"reb":44}],
 "pos":"SG","hgt":74,"weight":175,
 "born":{"year":1998,"loc":"Indianapolis, IN"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629657.png",
@@ -6768,7 +6768,7 @@
 "college":"Sacramento State",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":8,
+{"tid":25,
 "name":"Louis King",
 "ratings":[{"hgt":52,"stre":39,"spd":53,"jmp":54,"endu":32,"ins":42,"dnk":50,"ft":50,"fg":42,"tp":43,"diq":35,"oiq":31,"drb":45,"pss":48,"reb":58}],
 "pos":"SF","hgt":80,"weight":205,
@@ -6781,7 +6781,7 @@
 
 {"tid":7,
 "name":"Bol Bol",
-"ratings":[{"hgt":76,"stre":44,"spd":31,"jmp":30,"endu":30,"ins":58,"dnk":51,"ft":62,"fg":40,"tp":40,"diq":52,"oiq":33,"drb":19,"pss":17,"reb":54}],
+"ratings":[{"hgt":76,"stre":44,"spd":31,"jmp":30,"endu":30,"ins":58,"dnk":51,"ft":67,"fg":67,"tp":67,"diq":52,"oiq":33,"drb":19,"pss":17,"reb":54}],
 "pos":"C","hgt":86,"weight":222,
 "born":{"year":2000,"loc":"Khartoum, Sudan"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629626.png",
@@ -6980,7 +6980,7 @@
 
 {"tid":25,
 "name":"Justin James",
-"ratings":[{"hgt":32,"stre":31,"spd":56,"jmp":48,"endu":32,"ins":21,"dnk":53,"ft":50,"fg":55,"tp":48,"diq":32,"oiq":40,"drb":50,"pss":44,"reb":34}],
+"ratings":[{"hgt":32,"stre":31,"spd":56,"jmp":48,"endu":32,"ins":21,"dnk":58,"ft":60,"fg":57,"tp":57,"diq":40,"oiq":40,"drb":50,"pss":54,"reb":41}],
 "pos":"SG","hgt":75,"weight":176,
 "born":{"year":1997,"loc":"Port Saint Lucie, FL"},
 "imgURL":"https://cdn.nba.net/nba-drupal-prod/2019-06/Screen%20Shot%202019-06-20%20at%2011.42.35%20PM.jpg",
@@ -7135,7 +7135,7 @@
 "college":"Michigan",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
-{"tid":25,
+{"tid":8,
 "name":"Caleb Swanigan",
 "ratings":[{"hgt":54,"stre":72,"spd":38,"jmp":48,"endu":40,"ins":70,"dnk":72,"ft":52,"fg":39,"tp":0,"diq":53,"oiq":55,"drb":25,"pss":34,"reb":68}],
 "pos":"PF","hgt":80,"weight":250,
